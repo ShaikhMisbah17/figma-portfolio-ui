@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/figma-portfolio-ui/static/css/main.31d6cfe0.css",
-    "main.js": "/figma-portfolio-ui/static/js/main.9fb8d8ea.js",
+    "main.css": "/figma-portfolio-ui/static/css/main.e222dd93.css",
+    "main.js": "/figma-portfolio-ui/static/js/main.f8725541.js",
     "index.html": "/figma-portfolio-ui/index.html",
-    "main.9fb8d8ea.js.map": "/figma-portfolio-ui/static/js/main.9fb8d8ea.js.map"
+    "main.e222dd93.css.map": "/figma-portfolio-ui/static/css/main.e222dd93.css.map",
+    "main.f8725541.js.map": "/figma-portfolio-ui/static/js/main.f8725541.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.9fb8d8ea.js"
+    "static/css/main.e222dd93.css",
+    "static/js/main.f8725541.js"
   ]
 }
