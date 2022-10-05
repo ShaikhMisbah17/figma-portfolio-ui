@@ -1,7 +1,8 @@
 import "./App.css";
+import Blog from "./container/Blog";
 
 function App() {
-  return <h1>Hello World!!</h1>;
+  return <Blog />;
 }
 
 export default App;
