@@ -1,0 +1,36 @@
+.navbar {
+  width: 100%;
+  height: 40px;
+}
+
+.navbar > ul {
+  display: flex;
+  column-gap: 43px;
+  list-style-type: none;
+  justify-content: flex-end;
+  margin: 27px 60px 0 0;
+}
+
+.navbar__blog {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  color: #ff6464;
+}
+
+.navbar__blog-work {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  color: #000000;
+}
+
+@media screen and (max-width: 375px) {
+  .navbar {
+    display: none;
+  }
+}

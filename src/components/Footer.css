@@ -1,0 +1,19 @@
+.footer {
+  margin-top: 104px;
+}
+
+.bottom {
+  display: flex;
+  column-gap: 35px;
+  justify-content: center;
+}
+
+.copyright-text {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #21243d;
+}
