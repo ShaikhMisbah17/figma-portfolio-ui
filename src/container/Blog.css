@@ -22,8 +22,24 @@
   line-height: 60px;
   color: #21243d;
 }
+@media screen and (max-width: 750px) {
+  .navbar {
+    display: none;
+  }
+  .blog__wrapper {
+    width: 89%;
+    row-gap: 55px;
+  }
+}
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 500px) {
+  .navbar {
+    display: none;
+  }
+  .blog__wrapper {
+    width: 80%;
+    row-gap: 55px;
+  }
   .heading__blog {
     font-weight: 700;
     font-size: 30px;
