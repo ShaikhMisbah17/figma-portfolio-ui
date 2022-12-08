@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/figma-portfolio-ui/static/css/main.82a9d67f.css",
-    "main.js": "/figma-portfolio-ui/static/js/main.bf79739b.js",
+    "main.css": "/figma-portfolio-ui/static/css/main.a72e928b.css",
+    "main.js": "/figma-portfolio-ui/static/js/main.2105fc56.js",
+    "static/media/redCar.png": "/figma-portfolio-ui/static/media/redCar.93333b1902d505338759.png",
+    "static/media/dashboard.png": "/figma-portfolio-ui/static/media/dashboard.b1cba6e897ac12aaf290.png",
+    "static/media/john.png": "/figma-portfolio-ui/static/media/john.8a365fa2638e0ebf2943.png",
+    "static/media/second.png": "/figma-portfolio-ui/static/media/second.7db6bf638974c21454ab.png",
+    "static/media/order.png": "/figma-portfolio-ui/static/media/order.918577b906797dbb5b4a.png",
+    "static/media/first.png": "/figma-portfolio-ui/static/media/first.750629d20a773cce2866.png",
+    "static/media/third.png": "/figma-portfolio-ui/static/media/third.925b6d823f4d59bb3226.png",
     "index.html": "/figma-portfolio-ui/index.html",
-    "main.82a9d67f.css.map": "/figma-portfolio-ui/static/css/main.82a9d67f.css.map",
-    "main.bf79739b.js.map": "/figma-portfolio-ui/static/js/main.bf79739b.js.map"
+    "main.a72e928b.css.map": "/figma-portfolio-ui/static/css/main.a72e928b.css.map",
+    "main.2105fc56.js.map": "/figma-portfolio-ui/static/js/main.2105fc56.js.map"
   },
   "entrypoints": [
-    "static/css/main.82a9d67f.css",
-    "static/js/main.bf79739b.js"
+    "static/css/main.a72e928b.css",
+    "static/js/main.2105fc56.js"
   ]
 }
