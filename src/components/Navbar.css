@@ -17,16 +17,23 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 29px;
-  color: #ff6464;
+  /* color: #ff6464; */
+  color: #000000;
 }
 
-.navbar__blog-work {
+.navbar__blog-home,
+.navbar__blog-works,
+.navbar__blog-contact {
   font-family: "Heebo";
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 29px;
   color: #000000;
+}
+
+.link__style {
+  text-decoration: none;
 }
 
 @media screen and (max-width: 375px) {

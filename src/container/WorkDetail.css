@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Heebo&family=Unica+One&display=swap");
+
+.workDetail {
+  width: 100%;
+  height: 100vh;
+}
+
+.workDetail__wrapper {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.heading__workDetail {
+  display: flex;
+  width: 506px;
+  height: 100px;
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 50px;
+  color: #21243d;
+}
+
+.headingDetails {
+  display: flex;
+  column-gap: 27px;
+}
+
+.heading_date {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 60px;
+  color: #ffffff;
+  background: #ff7c7c;
+  width: 60px;
+  height: 30px;
+  border-radius: 16px;
+}
+
+.heading_title {
+  margin: 0;
+  width: 374px;
+  height: 34px;
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+  color: #21243d;
+}
+
+.dashboard-img {
+  margin: 46px 0;
+}
+
+.heading_description {
+  width: 681px;
+  height: 44px;
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.heading1 {
+  margin: 54px 0 0;
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 60px;
+  color: #21243d;
+}
+
+.heading2 {
+  margin: 0;
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 60px;
+  color: #21243d;
+}
+
+.car {
+  margin: 27px 0;
+}
