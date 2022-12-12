@@ -12,8 +12,6 @@
 }
 
 .navbar__blog {
-  font-family: "Heebo";
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 29px;
@@ -24,8 +22,6 @@
 .navbar__blog-home,
 .navbar__blog-works,
 .navbar__blog-contact {
-  font-family: "Heebo";
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 29px;

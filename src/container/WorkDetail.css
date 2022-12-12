@@ -18,8 +18,6 @@
   display: flex;
   width: 506px;
   height: 100px;
-  font-family: "Heebo";
-  font-style: normal;
   font-weight: 700;
   font-size: 34px;
   line-height: 50px;
@@ -36,8 +34,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: "Heebo";
-  font-style: normal;
+
   font-weight: 900;
   font-size: 18px;
   line-height: 60px;
@@ -52,8 +49,7 @@
   margin: 0;
   width: 374px;
   height: 34px;
-  font-family: "Heebo";
-  font-style: normal;
+
   font-weight: 400;
   font-size: 20px;
   line-height: 29px;
@@ -67,8 +63,7 @@
 .heading_description {
   width: 681px;
   height: 44px;
-  font-family: "Heebo";
-  font-style: normal;
+
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -77,8 +72,7 @@
 
 .heading1 {
   margin: 54px 0 0;
-  font-family: "Heebo";
-  font-style: normal;
+
   font-weight: 500;
   font-size: 30px;
   line-height: 60px;
@@ -87,8 +81,7 @@
 
 .heading2 {
   margin: 0;
-  font-family: "Heebo";
-  font-style: normal;
+
   font-weight: 500;
   font-size: 24px;
   line-height: 60px;
