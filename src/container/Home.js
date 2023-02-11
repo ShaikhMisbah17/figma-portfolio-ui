@@ -41,7 +41,7 @@ function Home() {
         <div className="homeTop__wrapper">
           <div className="left_section">
             <h1 className="heading__info-1">Hi, I am John,</h1>
-            <h1 className="heading__info-2">Creative Technologist</h1>
+            <h1 className="heading__info-2 ">Creative Technologist</h1>
             <p className="heading__description">
               Amet minim mollit non deserunt ullamco est sit aliqua dolor do
               amet sint. Velit officia consequat duis enim velit mollit.
