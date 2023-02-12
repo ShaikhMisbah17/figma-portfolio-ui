@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/figma-portfolio-ui/static/css/main.f19e9342.css",
-    "main.js": "/figma-portfolio-ui/static/js/main.70102458.js",
+    "main.js": "/figma-portfolio-ui/static/js/main.967a5f41.js",
     "static/media/redCar.png": "/figma-portfolio-ui/static/media/redCar.93333b1902d505338759.png",
     "static/media/dashboard.png": "/figma-portfolio-ui/static/media/dashboard.b1cba6e897ac12aaf290.png",
     "static/media/john.png": "/figma-portfolio-ui/static/media/john.8a365fa2638e0ebf2943.png",
@@ -11,10 +11,10 @@
     "static/media/third.png": "/figma-portfolio-ui/static/media/third.925b6d823f4d59bb3226.png",
     "index.html": "/figma-portfolio-ui/index.html",
     "main.f19e9342.css.map": "/figma-portfolio-ui/static/css/main.f19e9342.css.map",
-    "main.70102458.js.map": "/figma-portfolio-ui/static/js/main.70102458.js.map"
+    "main.967a5f41.js.map": "/figma-portfolio-ui/static/js/main.967a5f41.js.map"
   },
   "entrypoints": [
     "static/css/main.f19e9342.css",
-    "static/js/main.70102458.js"
+    "static/js/main.967a5f41.js"
   ]
 }
