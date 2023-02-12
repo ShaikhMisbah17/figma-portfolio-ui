@@ -1,11 +1,14 @@
 import React from "react";
 import "./WorkInfo.css";
+import { Link } from "react-router-dom";
 
 const WorkInfo = (props) => {
   return (
     <div className="work_info">
       <div className="work_info-image">
-        <img classname="image" src={props.img} />
+        <Link to="/work">
+          <img classname="image" src={props.img} alt="" />
+        </Link>
       </div>
       <div className="headingContents">
         <h1 className="heading">{props.heading}</h1>
