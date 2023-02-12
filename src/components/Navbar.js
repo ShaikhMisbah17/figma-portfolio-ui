@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <div className="navbar">
       <ul>
-        <Link to="/" className="link__style">
+        <Link to="/figma-portfolio-ui" className="link__style">
           <li className="navbar__blog-home">Home</li>
         </Link>
         <Link to="/blog" className="link__style">
